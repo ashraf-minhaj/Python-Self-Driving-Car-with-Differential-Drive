@@ -4,5 +4,8 @@
 ## Manual - Keyboard controlled Car
 ![Simulation Running](resources/demo-manual.gif)
 
+## Autonomous Attempt 1
+![Simulation Running](resources/autonomous-attempt1.gif)
+
 ## License
 [GNU GENERAL PUBLIC LICENSE](https://fsf.org/)
